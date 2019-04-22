@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>lama</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>1</version>
+    <version>1.1</version>
 
     <packaging>pom</packaging>
     <modules>
@@ -45,8 +45,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:springframeworkguru/sfg-pet-clinic.git</developerConnection>
-        <tag>pet-clinic-tag</tag>
-    </scm>
+        <developerConnection>scm:git:git@github.com:AFLLAMA/pet-clinic.git</developerConnection>
+      <tag>pet-clinic-1.1</tag>
+  </scm>
 
 </project>
